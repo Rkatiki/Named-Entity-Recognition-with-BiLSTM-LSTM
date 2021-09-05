@@ -1,1 +1,1 @@
-# Named-Entity-Recognition-with-BiLSTM-LSTM
+# Named-Entity-Recognition
